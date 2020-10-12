@@ -1,7 +1,5 @@
 ### Hey, I'm HellLover 🎆
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on discord bots..
 - 🌱 I’m currently learning programming languages..
 - 💬 Ask me about help..
@@ -12,5 +10,7 @@ Here are some ideas to get you started:
   [My Bot](https://discord.com/oauth2/authorize?client_id=713713873915478036&scope=bot&permissions=268823679),
 
 <img src="https://github-readme-stats.vercel.app/api?username=HellLover&show_icons=true&theme=dark">
+
+### Top used languages by me
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellLover">
