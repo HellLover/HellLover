@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about help..
 - 📫 How to reach me: Discord - HellLover#0007
 - 💬 Useful links:
-  [Discord Server](https://discord.gg/2uUAjwn)
-  [YouTube](https://www.youtube.com/channel/UC4hJOZO_shC5NcT47-obM5g?view_as=subscriber)
-  [My Bot](https://discord.com/oauth2/authorize?client_id=713713873915478036&scope=bot&permissions=268823679)
+  [Discord Server](https://discord.gg/2uUAjwn),
+  [YouTube](https://www.youtube.com/channel/UC4hJOZO_shC5NcT47-obM5g?view_as=subscriber),
+  [My Bot](https://discord.com/oauth2/authorize?client_id=713713873915478036&scope=bot&permissions=268823679),
 
 <img src="https://github-readme-stats.vercel.app/api?username=HellLover&show_icons=true&theme=dark">
