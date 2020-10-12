@@ -12,3 +12,5 @@ Here are some ideas to get you started:
   [My Bot](https://discord.com/oauth2/authorize?client_id=713713873915478036&scope=bot&permissions=268823679),
 
 <img src="https://github-readme-stats.vercel.app/api?username=HellLover&show_icons=true&theme=dark">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellLover">
