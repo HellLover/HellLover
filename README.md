@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on discord bots..
 - 🌱 I’m currently learning programming languages..
 - 💬 Ask me about help..
-- 📫 How to reach me: Discord - HellLover#0007
+- 📫 How to reach me: Discord - HellLover#9626
 - 💬 Useful links:
   [Discord Server](https://discord.gg/2uUAjwn),
   [YouTube](https://www.youtube.com/channel/UC4hJOZO_shC5NcT47-obM5g?view_as=subscriber),
