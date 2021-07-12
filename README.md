@@ -1,4 +1,4 @@
-![background image](https://cdn.discordapp.com/attachments/813400207638790154/864077479634010112/162-1622110_aesthetic-cute-anime-backgrounds.png)
+![background image](https://cdn.discordapp.com/attachments/813400207638790154/864081719278567424/bg_1.jpg)
 
 ### Hey, I'm HellLover 🎆
 
