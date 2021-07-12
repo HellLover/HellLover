@@ -2,13 +2,16 @@
 
 ### 👋 Hey, I'm HellLover!
 
-• 🔭 I watch anime and playing some games (Rocket League, Valorant, Minecraft etc.);
-• 🌱 I'm currently learning programming languages and improving my knowledges;
-• 📫 How to reach me: Discord - HellLover#9626;
+• 🔭 I watch anime and playing some games (Rocket League, Valorant, Minecraft etc.)
+
+• 🌱 I'm currently learning programming languages and improving my knowledges
+
+• 📫 How to reach me: Discord - HellLover#9626
+
 • 💬 Useful links:
   [Discord Server](https://discord.gg/TYhSGhWGvm),
   [YouTube channel](https://www.youtube.com/channel/UC4hJOZO_shC5NcT47-obM5g?view_as=subscriber),
-  [My Discord Bot](https://discord.com/oauth2/authorize?client_id=713713873915478036&scope=bot&permissions=268823679),
+  [My Discord Bot](https://discord.com/oauth2/authorize?client_id=713713873915478036&scope=bot&permissions=268823679)
 
 ## 📊 Some Stats
 <img src="https://github-readme-stats.vercel.app/api?username=HellLover&show_icons=true&theme=dark">
