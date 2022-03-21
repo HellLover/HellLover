@@ -6,11 +6,10 @@
 
 • 🌱 I'm currently learning programming languages and improving my knowledge.
 
-• 📫 How to reach me: Discord - HellLover#9626
+• 📫 How to reach me: Discord - HellLover#0088
 
 • 💬 Useful links:
   [Discord Server](https://discord.gg/TYhSGhWGvm),
-  [YouTube channel](https://www.youtube.com/channel/UC4hJOZO_shC5NcT47-obM5g?view_as=subscriber),
   [My Discord Bot](https://discord.com/oauth2/authorize?client_id=713713873915478036&scope=bot&permissions=268823679)
 
 ## 📊 Some Stats
