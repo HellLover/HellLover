@@ -18,7 +18,7 @@
 ## 🧰 Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,sass" />
+    <img src="https://skillicons.dev/icons?i=js,ts,kotlin,csharp,cpp,nodejs,html,css,sass" />
   </a>
 </p>
 
