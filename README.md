@@ -2,9 +2,7 @@
 
 ### 👋 Hey, I'm HellLover!
 
-• 🔭 I watch anime and play some games such as Rocket League, Valorant, Minecraft.
-
-• 🌱 I'm currently learning programming languages and improving my knowledge.
+• 🔭 I'm a student. My hobbies are Programming, Games, Music and Anime.
 
 • 📫 How to reach me: Discord - HellLover#0088
 
