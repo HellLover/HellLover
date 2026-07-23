@@ -1,7 +1,7 @@
 ![background image](https://i.imgur.com/cRX774c.jpeg)
 
 # 👋 Hi, I'm HellLover!
-• 🔭 I'm a student. My hobbies are Programming, Games, Music and Anime.<br><br>• 📫 How to reach me: Discord - `helllover`<br><br>• 🤖 Try out my Discord bot: [Invite link](https://discord.com/oauth2/authorize?client_id=713713873915478036&scope=bot&permissions=268823679)
+• 🔭 Full-stack Web Developer at the moment. My hobbies are Programming (yes, it's still a hobby), Gaming, Music, Gym.<br><br>• 📫 How to reach me: Discord - `helllover`<br><br>• 🤖 Try out my Discord bot: [Invite link](https://discord.com/oauth2/authorize?client_id=713713873915478036&scope=bot&permissions=268823679)
 
 
 ## 🌐 Socials:
